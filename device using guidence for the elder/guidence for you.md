@@ -25,7 +25,7 @@ license: :copyright:yqchang2207
 <img src="assets/image-20220627171704589.png" alt="image-20220627171704589" style="zoom:50%;" />
 
 2. 把这个pdf放到电脑上看。
-2. 您可以保存这个链接，在手机上看。
+2. 您可以保存这个链接 : [我是链接](https://github.com/ChangYaQi/notes/blob/main/device%20using%20guidence%20for%20the%20elder/guidence%20for%20you.md ) 在手机上看。
 
 ## 上篇：手机与iPad使用
 
